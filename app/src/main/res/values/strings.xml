@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ishihara test</string>
+    <string name="Start_btn">Start</string>
+    <string name="Instructions_btn">Instructions</string>
+    <string name="Next_btn">Next</string>
+    <string name="Results_btn">Results</string>
+    <string name="Restart_btn">Restart</string>
+    <string name="Home_btn">Home</string>
+    <string name="instr1">The Ishihara Test is used to assess the existence of color blindness. In other words, to evaluate if there is a color blindness disorder that affects color vision (such as green and red).</string>
+    <string name="instr2">Color blindness is a vision dysfunction characterized by impaired color perception, which can range from confusion between certain shades of green and red, to no color distinction.</string>
+    <string name="instr3">The Ishihara Test evaluates the congenital alteration of color vision, that is, color blindness. Most of these alterations are reduced to red-green deficiency.</string>
+    <string name="instr4">- Try to make the lighting as similar as possible to natural light and avoid as many reflections as possible.</string>
+    <string name="instr5">- Stand 75 cm from the screen.</string>
+    <string name="instr6">- The test is performed monocularly.</string>
+    <string name="instr7">- You must hit the numbers in less than 3 seconds.</string>
+    <string name="Good">Congratulations! You have no color blindness problems</string>
+    <string name="Medium">You may have a slight color vision deficiency. Ask an ophthalmologist</string>
+    <string name="Bad">You may have a color vision deficiency. Perhaps you should see an ophthalmologist</string>
+</resources>
