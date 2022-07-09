@@ -28,5 +28,3 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 }
-//video 1 de sandip minuto 6
-
